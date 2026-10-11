@@ -24,25 +24,25 @@ Recent work spans personal operations, on-device Android tools, and reusable age
     <td width="33%" valign="top">
       <a href="https://github.com/bozo-industries/Pandemonium"><img src="assets/pandemonium.svg" alt="Pandemonium's supervised service modules" width="100%" /></a>
       <h3><a href="https://github.com/bozo-industries/Pandemonium">Pandemonium</a></h3>
-      <p>A modular operating layer for personal workflows. A supervised TypeScript daemon connects finance, work, transport, and knowledge tools through explicit APIs.</p>
+      <p>Self-hosted modules for finance, work, transport, and knowledge workflows.</p>
       <p align="center"><sub>TypeScript · Node.js · self-hosted</sub></p>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/confiteor48/SubHub"><img src="assets/subhub.svg" alt="SubHub's on-device Android control interface" width="100%" /></a>
       <h3><a href="https://github.com/confiteor48/SubHub">SubHub</a></h3>
-      <p>A private Android control space for on-device filtering, app limits, session tools, and portable Studio arrangements.</p>
+      <p>On-device Android tools for filtering, daily app limits, and session controls.</p>
       <p align="center"><sub>Android · Java · on-device</sub></p>
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/confiteor48/agent-cookbook"><img src="assets/agent-cookbook.svg" alt="Reusable agent workflow cards" width="100%" /></a>
       <h3><a href="https://github.com/confiteor48/agent-cookbook">Agent Cookbook</a></h3>
-      <p>Portable agent instructions, workflow references, and skill packages for dependable day-to-day development.</p>
+      <p>Portable Codex workflows, instructions, and skill packages for development.</p>
       <p align="center"><sub>Codex · Python · reusable tooling</sub></p>
     </td>
   </tr>
 </table>
 
-## A few smaller tools
+## Other tools
 
 - [Discord Favorites Manager](https://github.com/confiteor48/Discord-Favorites-Manager) — a local browser tool for managing saved Discord GIFs.
 - [Duolicious Song Uploader](https://github.com/confiteor48/Duolicious-Song-Uploader) — upload an existing short audio clip as a profile voice note.
