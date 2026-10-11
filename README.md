@@ -22,13 +22,13 @@ Recent work spans personal operations, on-device Android tools, and reusable age
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://github.com/bozo-industries/Pandemonium"><img src="assets/pandemonium.svg" alt="Pandemonium's supervised service modules" width="100%" /></a>
+      <a href="https://github.com/bozo-industries/Pandemonium"><img src="assets/pandemonium-preview.png" alt="Pandemonium GitHub preview banner" width="100%" /></a>
       <h3><a href="https://github.com/bozo-industries/Pandemonium">Pandemonium</a></h3>
       <p>Self-hosted modules for finance, work, transport, and knowledge workflows.</p>
       <p align="center"><sub>TypeScript · Node.js · self-hosted</sub></p>
     </td>
     <td width="33%" valign="top">
-      <a href="https://github.com/confiteor48/SubHub"><img src="assets/subhub.svg" alt="SubHub's on-device Android control interface" width="100%" /></a>
+      <a href="https://github.com/confiteor48/SubHub"><img src="https://raw.githubusercontent.com/confiteor48/SubHub/master/docs/brand/subhub-hero.jpg" alt="SubHub GitHub preview banner" width="100%" /></a>
       <h3><a href="https://github.com/confiteor48/SubHub">SubHub</a></h3>
       <p>On-device Android tools for filtering, daily app limits, and session controls.</p>
       <p align="center"><sub>Android · Java · on-device</sub></p>
