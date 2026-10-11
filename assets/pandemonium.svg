@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 180" role="img" aria-labelledby="title desc">
+  <title id="title">Pandemonium system map</title><desc id="desc">A central service connected to independent module nodes.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111528"/><stop offset="1" stop-color="#1b1430"/></linearGradient>
+    <linearGradient id="line" x2="1" y2="0"><stop stop-color="#9165ff"/><stop offset="1" stop-color="#67e1cf"/></linearGradient>
+    <radialGradient id="center"><stop stop-color="#d8c3ff"/><stop offset="1" stop-color="#8b5cf6"/></radialGradient>
+  </defs>
+  <rect width="640" height="180" rx="22" fill="url(#bg)"/>
+  <path d="M60 37H580M60 143H580" stroke="#b7acd8" stroke-opacity=".08"/>
+  <g stroke="url(#line)" stroke-width="2" fill="none" opacity=".82">
+    <path d="M320 90L152 46M320 90L152 134M320 90L488 46M320 90L488 134M320 90L320 31M320 90L320 149"/>
+  </g>
+  <g fill="#151a2a" stroke="#a78bfa" stroke-width="1.5">
+    <rect x="90" y="29" width="124" height="34" rx="11"/><rect x="90" y="117" width="124" height="34" rx="11"/>
+    <rect x="426" y="29" width="124" height="34" rx="11"/><rect x="426" y="117" width="124" height="34" rx="11"/>
+    <rect x="272" y="14" width="96" height="34" rx="11"/><rect x="272" y="132" width="96" height="34" rx="11"/>
+  </g>
+  <g fill="#8aefdb">
+    <circle cx="120" cy="46" r="4"/><circle cx="120" cy="134" r="4"/>
+    <circle cx="456" cy="46" r="4"/><circle cx="456" cy="134" r="4"/>
+    <circle cx="296" cy="31" r="4"/><circle cx="296" cy="149" r="4"/>
+  </g>
+  <circle cx="320" cy="90" r="32" fill="#0f1322" stroke="url(#line)" stroke-width="2"/>
+  <circle cx="320" cy="90" r="16" fill="url(#center)"/>
+  <path d="M320 77l4 10 10 3-10 4-4 10-4-10-10-4 10-3z" fill="#fff"/>
+</svg>
